@@ -1,7 +1,4 @@
-Documentation is an essential part of any project, especially when sharing it on platforms like GitHub. Here's a suggested structure for documenting your 3D image classification project:
-
-### Project Title
-Title: 3D Image Classification from CT Scans
+# 3D Image Classification from CT Scans
 
 ### Introduction
 Introduction: Briefly introduce the project, explaining its purpose and goals. You can mention that it demonstrates building a 3D convolutional neural network (CNN) to predict the presence of viral pneumonia in CT scans.
